@@ -15,6 +15,4 @@ It follows best practices in **data modeling, KPI creation, and visualization de
 - Analyze trends across time, region, store, and product
 - Enable data-driven business decisions
 
----
 
-## 🗂️ Project Structure

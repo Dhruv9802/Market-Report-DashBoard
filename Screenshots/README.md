@@ -1,23 +1,17 @@
-## Dashboard Files
+## Dashboard Screenshots
 
-This folder contains the main dashboard files used in this project.
+This folder contains screenshots of the dashboard for quick preview.
 
-### Contents
-- **Power BI / Excel dashboard file** containing:
-  - Data model with fact and dimension tables
-  - Relationships (one-to-many)
-  - Calculated measures (KPIs)
-  - Interactive visuals and filters
+### Included Screenshots
+- **Dashboard Overview** – Complete layout of the dashboard
+- **KPIs Section** – Key metrics such as Sales, Profit, and Transactions
+- **Charts & Analysis** – Trend analysis, comparisons, and breakdowns
+- **Data Model View** – Table relationships and schema design
 
-### Key Highlights
-- Built using a star schema model
-- Central fact table connected to dimension tables
-- KPIs such as Sales, Profit, Transactions, and Returns
-- Used slicers, cards, charts, and gauge visuals
+### Purpose
+These screenshots help viewers understand:
+- Dashboard structure without opening the file
+- Visual design and KPI placement
+- Relationship model used in the project
 
-### Usage
-Open the dashboard file in Power BI Desktop / Excel to explore:
-- Filters by date, region, product, and store
-- KPI performance vs targets
-- Trends and comparisons
 
